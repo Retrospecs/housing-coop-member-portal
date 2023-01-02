@@ -5,6 +5,7 @@ A portal to help manage their interactions with their coop. (renters, contracts,
 # Project Status
 
 This project is still in analysis status. There is no code yet.
+- See wiki for now
 
 ## next steps:
 
